@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Tarea3.Clases;
+using Tarea3.Interface;
 
 namespace Tarea3
 {
